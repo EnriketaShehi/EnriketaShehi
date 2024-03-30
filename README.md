@@ -8,6 +8,15 @@
 
 Hi, I'm Eni.
 
+| Rank | Languages     |
+|-----:|---------------|
+|     1| Python        |
+|     2| Java          |
+|     3| HTML          |
+
+
+
+
 <!--
 **EnriketaShehi/EnriketaShehi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
