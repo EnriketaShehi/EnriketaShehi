@@ -8,11 +8,21 @@
 
 Hi, I'm Eni.
 
+<details>
+<summary>My top languages</summary>
+  
 | Rank | Languages     |
 |-----:|---------------|
 |     1| Python        |
 |     2| Java          |
 |     3| HTML          |
+
+</details>
+
+
+
+  
+
 
 
 
