@@ -12,6 +12,7 @@ Hi, I'm Emmy.
 |     1| Python        |
 |     2| Java          |
 |     3| HTML          |
+|     4| Javascript    |
 
 </details>
 
