@@ -1,4 +1,5 @@
 
+![Full Stack Web Developer](https://github.com/EnriketaShehi/EnriketaShehi/assets/165399841/1bdf412b-cd34-43b5-b2ad-9e46cf0b37cd)
 
 ## About me
 
