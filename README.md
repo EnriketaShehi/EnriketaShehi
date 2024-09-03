@@ -1,3 +1,6 @@
+Hi, I'm Emmy.
+
+In Spring 2024 I completed a Full Stack Web Development bootcamp with HyperionDev. Here's a list of all the tasks which I completed, the topics covered, and my grade for each task.
 
 ![Dashboard 01](https://github.com/user-attachments/assets/532dc6f9-e285-4e20-ab1e-8afa6d1de605)
 ![Dashboard 02](https://github.com/user-attachments/assets/3990b14c-c202-4672-b99d-9dd304729622)
