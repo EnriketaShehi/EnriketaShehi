@@ -6,6 +6,7 @@ In Spring 2024 I completed a Full Stack Web Development bootcamp with HyperionDe
 ![Dashboard 02](https://github.com/user-attachments/assets/3990b14c-c202-4672-b99d-9dd304729622)
 ![Dashboard 03](https://github.com/user-attachments/assets/80fb3510-8ad4-44c1-abe1-7550a6fb74a7)
 
+And here is an overview of the area of computing in which I acquired many new skills in the course of completing the bootcamp.
 
 ![Full Stack Web Developer](https://github.com/EnriketaShehi/EnriketaShehi/assets/165399841/1bdf412b-cd34-43b5-b2ad-9e46cf0b37cd)
 <!-- Source of image: https://www.linkedin.com/pulse/what-exactly-full-stack-web-development-bhargavkumar-limbad/ -->
